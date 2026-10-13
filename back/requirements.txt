@@ -2,8 +2,4 @@ fastapi
 uvicorn
 openai
 sentence-transformers
-<<<<<<< HEAD
 python-dotenv
-=======
-python-dotenv
->>>>>>> 98c7b3b88be4549e627d03acd055aeda39a6f4a7
