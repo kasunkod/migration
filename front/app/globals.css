@@ -1,0 +1,127 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 38% 97%;
+    --foreground: 20 16% 13%;
+
+    --card: 40 32% 99%;
+    --card-foreground: 20 16% 13%;
+
+    --primary: 24 95% 53%;
+    --primary-foreground: 40 38% 98%;
+
+    --secondary: 34 26% 93%;
+    --secondary-foreground: 20 16% 13%;
+
+    --muted: 34 22% 92%;
+    --muted-foreground: 20 8% 42%;
+
+    --accent: 205 48% 19%;
+    --accent-foreground: 40 38% 98%;
+
+    --border: 30 16% 86%;
+    --input: 30 16% 86%;
+    --ring: 24 95% 53%;
+
+    --ink: 205 48% 19%;
+    --paper: 40 32% 97%;
+  }
+
+  .dark {
+    --background: 20 16% 9%;
+    --foreground: 40 20% 95%;
+
+    --card: 20 14% 12%;
+    --card-foreground: 40 20% 95%;
+
+    --primary: 24 95% 58%;
+    --primary-foreground: 20 16% 9%;
+
+    --secondary: 20 12% 16%;
+    --secondary-foreground: 40 20% 95%;
+
+    --muted: 20 12% 16%;
+    --muted-foreground: 30 8% 66%;
+
+    --accent: 205 40% 74%;
+    --accent-foreground: 20 16% 9%;
+
+    --border: 20 10% 21%;
+    --input: 20 10% 21%;
+    --ring: 24 95% 58%;
+
+    --ink: 205 40% 78%;
+    --paper: 20 14% 14%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-feature-settings: "ss01" 1, "cv01" 1;
+  }
+
+  ::selection {
+    background-color: hsl(var(--primary) / 0.25);
+  }
+
+  :focus-visible {
+    outline: 2px solid hsl(var(--ring));
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* subtle paper grain used behind the hero + ticket */
+  .grain::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: theme("backgroundImage.grain");
+    mix-blend-mode: overlay;
+    opacity: 0.5;
+    pointer-events: none;
+  }
+
+  /* dashed perforation line used on the search "ticket" */
+  .perforation {
+    background-image: linear-gradient(
+      to bottom,
+      hsl(var(--border)) 0%,
+      hsl(var(--border)) 50%,
+      transparent 50%
+    );
+    background-size: 2px 10px;
+    background-repeat: repeat-y;
+  }
+
+  .glass {
+    background: hsl(var(--card) / 0.7);
+    backdrop-filter: blur(16px) saturate(160%);
+    -webkit-backdrop-filter: blur(16px) saturate(160%);
+  }
+
+  .stamp-rotate-1 {
+    transform: rotate(-3deg);
+  }
+  .stamp-rotate-2 {
+    transform: rotate(2deg);
+  }
+  .stamp-rotate-3 {
+    transform: rotate(-1.5deg);
+  }
+}

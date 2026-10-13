@@ -1,0 +1,112 @@
+{
+  "episode_id": "episode_01",
+
+  "season": 1,
+
+  "title": "Authenticity and Nepalese Food in West London",
+
+  "podcast_name": "The Migration Menu",
+
+  "hosts": [
+    "James Staples",
+    "Luke Heslop"
+  ],
+
+  "guest": "Indra Hang Lindon",
+
+  "restaurant": "Namaste Ghurkha",
+
+  "location": [
+    "Feltham",
+    "West London",
+    "United Kingdom"
+  ],
+
+  "country_related": "Nepal",
+
+  "episode_summary": "James Staples and Luke Heslop visit Namaste Ghurkha restaurant in West London and speak with proprietor Indra Hang Lindon about Nepalese food, migration, identity and adapting traditional cuisine for life in the UK. Indra discusses maintaining authentic Nepalese flavours while adapting menus for British customers, the importance of food memories, and how restaurants help preserve cultural identity among migrant communities.",
+
+
+  "main_topics": [
+    "Nepalese cuisine",
+    "Migration experiences",
+    "Food and identity",
+    "Restaurant entrepreneurship",
+    "Authenticity of traditional food",
+    "South Asian diaspora in West London"
+  ],
+
+
+  "food_items_discussed": [
+    "Momos",
+    "Thali",
+    "Dal bhat",
+    "Sekuwa",
+    "Chana sakate",
+    "Batas sadeko",
+    "Fermented bamboo shoots",
+    "Newari cuisine",
+    "Nepalese chutney"
+  ],
+
+
+  "cultural_themes": [
+    "Food as cultural identity",
+    "Memories of homeland",
+    "Preserving traditions abroad",
+    "Authenticity versus adaptation",
+    "Representation of Nepalese culture"
+  ],
+
+
+  "migration_themes": [
+    "Migration from Nepal to the UK",
+    "Building a restaurant business after migration",
+    "Maintaining cultural connections through food",
+    "Challenges faced by migrant communities"
+  ],
+
+
+  "key_people": [
+    "Indra Hang Lindon",
+    "James Staples",
+    "Luke Heslop"
+  ],
+
+
+  "important_quotes": [
+    "Food is something through which identity is expressed.",
+    "Authentic is one part, but you have to be realistic as well."
+  ],
+
+
+  "keywords": [
+    "Nepal",
+    "Nepalese food",
+    "Gurkha",
+    "London restaurants",
+    "migration",
+    "food identity",
+    "momos",
+    "restaurant business",
+    "South Asian cuisine",
+    "diaspora"
+  ],
+
+
+  "suggested_questions": [
+    "Which episode discusses Nepalese food in London?",
+    "Who owns Namaste Ghurkha restaurant?",
+    "What Nepalese dishes are discussed in this episode?",
+    "How does Indra describe authentic Nepalese cuisine?",
+    "How do migrants maintain cultural identity through food?",
+    "What challenges do Nepalese restaurants face in the UK?"
+  ],
+
+  "image_url": "ep1.png",
+  "spotify_url": "https://open.spotify.com/episode/33bqt64LR6ItZJ64pCet8Y",
+  "youtube_url": "",
+  "episode_url": "",
+
+  "transcript_file": "ep1.txt"
+}

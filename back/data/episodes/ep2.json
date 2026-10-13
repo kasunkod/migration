@@ -1,0 +1,110 @@
+{
+  "episode_id": "episode_02",
+  "season": 1,
+  "title": "Hyderabadi Cuisine, Mandi and Migration",
+  "podcast_name": "The Migration Menu",
+  "hosts": [
+    "James Staples",
+    "Luke Heslop"
+  ],
+  "guest": [
+    "Syed",
+    "Mujeeb"
+  ],
+  "restaurant": "Al Hyderabadi",
+  "location": [
+    "Uxbridge Road",
+    "West London",
+    "United Kingdom"
+  ],
+  "country_related": [
+    "India",
+    "Yemen"
+  ],
+  "region_related": [
+    "Hyderabad",
+    "Telangana",
+    "Hadhramaut"
+  ],
+  "episode_summary": "James Staples and Luke Heslop visit Al Hyderabadi restaurant on Uxbridge Road to explore Hyderabadi cuisine, the historical links between India and Yemen, and the migration of food traditions. Restaurant owners Syed and Mujeeb explain the origins of Hyderabadi biryani and mandi, discuss authenticity, restaurant entrepreneurship, and adapting traditional cuisine for customers in the UK.",
+  "main_topics": [
+    "Hyderabadi cuisine",
+    "Migration",
+    "Food history",
+    "India–Yemen connections",
+    "Restaurant business",
+    "Authenticity",
+    "Diaspora food culture",
+    "Mughal culinary traditions"
+  ],
+  "food_items_discussed": [
+    "Hyderabadi biryani",
+    "Mandi",
+    "Haleem",
+    "Sweet chilli chips",
+    "Lamb mandi",
+    "Chicken 65",
+    "Masala chai"
+  ],
+  "cultural_themes": [
+    "Food and cultural identity",
+    "Historical trade routes",
+    "Migration through the Indian Ocean",
+    "Authenticity versus adaptation",
+    "Community dining",
+    "Religion and food"
+  ],
+  "migration_themes": [
+    "Migration from Hyderabad to the UK",
+    "Student migration",
+    "Building a restaurant business",
+    "Indian Ocean migration",
+    "Diaspora communities"
+  ],
+  "historical_topics": [
+    "Hadhrami migration",
+    "Indian Ocean trade",
+    "Mughal influence",
+    "British colonial rule in Aden",
+    "Bombay Presidency",
+    "Coffee trade"
+  ],
+  "key_people": [
+    "James Staples",
+    "Luke Heslop",
+    "Syed",
+    "Mujeeb"
+  ],
+  "keywords": [
+    "Hyderabad",
+    "Hyderabadi food",
+    "Mandi",
+    "Biryani",
+    "Chicken 65",
+    "Yemen",
+    "Hadhrami",
+    "Migration",
+    "Diaspora",
+    "Indian Ocean",
+    "Restaurant",
+    "Authenticity",
+    "West London"
+  ],
+  "suggested_questions": [
+    "Which episode discusses Hyderabadi biryani?",
+    "What is mandi?",
+    "Why is Hyderabad famous for biryani?",
+    "What is the connection between Yemen and Hyderabad?",
+    "How did Hadhrami migration influence Indian cuisine?",
+    "Why is Al Hyderabadi unique?",
+    "How are traditional Hyderabadi dishes adapted for the UK?",
+    "What is the history of Chicken 65?"
+  ],
+
+  "image_url": "ep2.png",
+  "spotify_url": "https://open.spotify.com/episode/3mTdb0w1uqxIRNsxmf0k0y",
+  "youtube_url": "",
+  "episode_url": "",
+
+  "transcript_file": "ep2.txt"
+}
