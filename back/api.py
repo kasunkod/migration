@@ -12,7 +12,7 @@ app.add_middleware(
         "http://192.168.56.1:3000",
         "http://localhost:3000",
         "http://127.0.0.1:3000",
-        "https://migration-menu-vj26.vercel.app"
+        "https://migration-menu-vj26.vercel.app",
         "https://front-seven-ashy.vercel.app",
     ],
     allow_credentials=True,
