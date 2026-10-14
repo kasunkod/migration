@@ -15,7 +15,7 @@ export function PopularEpisodes() {
   useEffect(() => {
     async function loadEpisodes() {
       try {
-        const response = await fetch("http://127.0.0.1:8000/episodes");
+        const response = await fetch("https://migration-5.onrender.com/episodes");
 
         if (!response.ok) {
           throw new Error("Could not load episodes.");
